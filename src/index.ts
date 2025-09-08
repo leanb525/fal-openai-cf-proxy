@@ -116,6 +116,8 @@ const FAL_SUPPORTED_MODELS = [
 	"meta-llama/llama-3.1-70b-instruct",
 	"openai/gpt-4o-mini",
 	"openai/gpt-4o",
+	"openai/gpt-4.1-mini",
+	"openai/gpt-4.1",
 	"deepseek/deepseek-r1",
 	"meta-llama/llama-4-maverick",
 	"meta-llama/llama-4-scout"
