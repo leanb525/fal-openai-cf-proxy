@@ -105,7 +105,9 @@ const FAL_SUPPORTED_MODELS = [
 	"anthropic/claude-3.5-sonnet",
 	"anthropic/claude-3-5-haiku",
 	"anthropic/claude-3-haiku",
-	"anthropic/claude-sonnet-4-20250514",
+	"anthropic/claude-sonnet-4",
+	"anthropic/claude-sonnet-4.5",
+	"anthropic/claude-opus-4.1",
 	"google/gemini-pro-1.5",
 	"google/gemini-flash-1.5",
 	"google/gemini-flash-1.5-8b",
@@ -118,6 +120,7 @@ const FAL_SUPPORTED_MODELS = [
 	"openai/gpt-4o",
 	"openai/gpt-4.1-mini",
 	"openai/gpt-4.1",
+	"openai/gpt-5",
 	"deepseek/deepseek-r1",
 	"meta-llama/llama-4-maverick",
 	"meta-llama/llama-4-scout"
