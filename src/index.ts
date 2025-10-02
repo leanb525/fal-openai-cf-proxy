@@ -105,7 +105,7 @@ const FAL_SUPPORTED_MODELS = [
 	"anthropic/claude-3.5-sonnet",
 	"anthropic/claude-3-5-haiku",
 	"anthropic/claude-3-haiku",
-	"anthropic/claude-sonnet-4",
+	"anthropic/claude-sonnet-4-5-20250929",
 	"google/gemini-pro-1.5",
 	"google/gemini-flash-1.5",
 	"google/gemini-flash-1.5-8b",
